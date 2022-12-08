@@ -8,7 +8,7 @@ class DNA {
   DNA() {
     genes = new char[target.length()];
     for (int i = 0; i < genes.length; i++) {
-      genes[i] = (char) random(32,128);
+      genes[i] = (char) random(97,122);
     }
   }
   //[end]

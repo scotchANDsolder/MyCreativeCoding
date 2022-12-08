@@ -29,7 +29,6 @@ void setup() {
 
 void draw() {
 
-  // <b><span style="font-size: 110%; text-decoration:underline;">Step 2: Selection</b></span>
 
   // Step 2a: Calculate fitness.
   for (int i = 0; i < population.length; i++) {
